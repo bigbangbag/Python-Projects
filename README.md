@@ -18,7 +18,4 @@ A collection of my Python projects (Not That Much)
 
 | Name            | Project                                   |
 |------------------|-------------------------------------------|
-| Your Name        | Complete Project (Creator, Maintainer)   |
-| Contributor 1    | To-Do List App                          |
-| Contributor 2    | Command-Line Tool for File Operations    |
-| Contributor 3    | System Command Executor                 |
+| BigBangBag        | Complete Project (Creator, Maintainer)   |
