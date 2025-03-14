@@ -1,3 +1,5 @@
+![Project Banner](https://media.geeksforgeeks.org/wp-content/uploads/20201123152927/PythonProjects11.png) <!-- Replace with your actual image URL -->
+
 # Python-Projects
 
 A collection of my Python projects (Not That Much)
