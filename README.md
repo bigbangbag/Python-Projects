@@ -13,3 +13,12 @@ A collection of my Python projects (Not That Much)
 
 ### My YouTube Channel
 [Click here](https://www.youtube.com/@FLARE-x3w/) to check out my YouTube channel!
+
+### Contributors
+
+| Name            | Project                                   |
+|------------------|-------------------------------------------|
+| Your Name        | Complete Project (Creator, Maintainer)   |
+| Contributor 1    | To-Do List App                          |
+| Contributor 2    | Command-Line Tool for File Operations    |
+| Contributor 3    | System Command Executor                 |
